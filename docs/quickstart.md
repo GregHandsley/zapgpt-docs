@@ -11,4 +11,4 @@ Click the button below (Stripe test mode, use card **4242 4242 4242 4242**):
 curl -H "Content-Type: application/json" \
      -H "X-API-KEY: YOUR_KEY_HERE" \
      -d '{"plain_text":"Hello!"}' \
-     https://zapgpt-greghandsley.fly.dev/parse_email
+     https://zapgpt.fly.dev/parse_email
