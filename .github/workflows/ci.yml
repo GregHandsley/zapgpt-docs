@@ -1,8 +1,5 @@
-
-*(The shield uses a little JS to call your backend directly.)*
-
 ### Block B-1 — `.github/workflows/ci.yml` for docs repo
-```yaml
+
 name: Build Docs
 on:
   push:
